@@ -9,15 +9,8 @@ Original file is located at
 
 # Commented out IPython magic to ensure Python compatibility.
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 import numpy as np
-from scipy.stats import norm
-from sklearn.preprocessing import StandardScaler
-from scipy import stats
 import warnings
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.preprocessing import scale
 warnings.filterwarnings('ignore')
 # %matplotlib inline
 
